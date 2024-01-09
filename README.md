@@ -1,1 +1,1 @@
-# เอกสารและไฟล์ประกอบวิชา Computer Engineering Laboratory
+# วิชา Computer Engineering Laboratory
