@@ -5,11 +5,12 @@ GPIO.setmode(GPIO.Board)
 GPIO.setup(LED, GPIO.OUT)
 
 try:
-	while True :
-		GPIO.output (LED, True)
-		time.sleep(0.1)
-		GPIO.output(LED, False)
-		time.sleep(1)
+  while True :
+    GPIO.output (LED, True)
+    time.sleep(0.1)
+    GPIO.output(LED, False)
+    time.sleep(1)
+	  
 except KeyboardInterrupt:
-	GPIO.cleanup()
-	print("Bye…")
+  GPIO.cleanup()
+  print("Bye…")
