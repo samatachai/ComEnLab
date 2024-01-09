@@ -1,5 +1,5 @@
 #
-# โปรแกรม Lab 6_1 - หลอด LED กระพริบ
+# โปรแกรม Lab 6_1 - หลอด LED กระพริบ อ้างอิงตำแหน่งขาตาม Board
 #
 
 import RPi.GPIO as GPIO
