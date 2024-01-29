@@ -6,6 +6,11 @@
 
 ## ตัวอย่างการต่อขา RPi เข้ากับ LCD แบบ I2C <br> 
 **REF -->** https://www.hackster.io/protostax-team/protostax-raspberry-pi-enclosure-with-i2c-lcd-display-6d09a6  <br><br>
+* RPi 5v pin (physical pin 2) - LCD VCC
+* RPi GND pin (physical pin 6) - LCD GND
+* RPi SDA (physical pin 3) - LCD SDA
+* RPi SCL (physical pin 5) - LCD SCL
+<br><br>
 ![image](https://hackster.imgix.net/uploads/attachments/1388247/protostax_lcd_kit_v2_bb_1Kr7x9Z9Ef.png?auto=compress%2Cformat&w=740&h=555&fit=max)
 
 ## **URL :
