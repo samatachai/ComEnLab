@@ -1,6 +1,7 @@
 # **ใบงานที่ 7 : การใช้งาน LCD เบื้องต้น  
 
-## **Pinout ของ RPi
+## **Pinout ของ RPi <br>
+**REF -->** https://www.raspberrypi.com/documentation/computers/raspberry-pi.html <br> 
 ![image](https://www.raspberrypi.com/documentation/computers/images/GPIO-Pinout-Diagram-2.png)
 
 
