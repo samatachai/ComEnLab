@@ -14,7 +14,7 @@
 <br><br>
 ![image](https://hackster.imgix.net/uploads/attachments/1388247/protostax_lcd_kit_v2_bb_1Kr7x9Z9Ef.png?auto=compress%2Cformat&w=740&h=555&fit=max)
 
-## **URL :
+## **เอกสารอ้างอิง :
 1. https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/
 2. https://www.donskytech.com/raspberry-pi-i2c-lcd-setup
 3. https://github.com/the-raspberry-pi-guy/lcd 
