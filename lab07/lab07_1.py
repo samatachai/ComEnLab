@@ -1,7 +1,5 @@
 import RPi.GPIO as GPIO
 import time
-import RPi.GPIO as GPIO
-import time
 
 SW1  = 27  
 SW2  = 17
